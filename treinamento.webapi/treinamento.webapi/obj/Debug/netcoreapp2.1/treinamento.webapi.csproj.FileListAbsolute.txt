@@ -1,0 +1,14 @@
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\bin\Debug\netcoreapp2.1\treinamento.webapi.deps.json
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\bin\Debug\netcoreapp2.1\treinamento.webapi.runtimeconfig.json
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\bin\Debug\netcoreapp2.1\treinamento.webapi.runtimeconfig.dev.json
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\bin\Debug\netcoreapp2.1\treinamento.webapi.dll
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\bin\Debug\netcoreapp2.1\treinamento.webapi.pdb
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.csprojAssemblyReference.cache
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.csproj.CoreCompileInputs.cache
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.RazorAssemblyInfo.cache
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.RazorAssemblyInfo.cs
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.AssemblyInfoInputs.cache
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.AssemblyInfo.cs
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.RazorTargetAssemblyInfo.cache
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.dll
+C:\Users\pelli\source\repos\treinamento.webapi\treinamento.webapi\obj\Debug\netcoreapp2.1\treinamento.webapi.pdb
